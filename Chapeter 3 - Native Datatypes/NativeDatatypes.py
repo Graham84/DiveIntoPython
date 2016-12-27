@@ -97,5 +97,92 @@ print li
 li = [1, 2] * 3
 print li
 
-#tuples
+# tuples - immutable list
+# cannot be changed in any way once it is created
+t = ("a","b","graham","z","example")
+print t
+print t[0]
+print t[-1]
+print t[1:3]
 
+# t.append("new")
+# t.remove("z")
+# t.index("example")
+print "z" in t
+
+# assigning multiple values at once
+v = ('a','b','c')
+(x,y,z) = v
+print x
+print y
+print z
+
+
+g = range(7)
+print g
+(Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday) = range(7)
+print Monday,\
+    Tuesday,\
+    Wednesday,\
+    Thursday,\
+    Friday,\
+    Saturday,\
+    Sunday
+
+
+print range.__doc__
+#print range.__globals__
+print range.__init__()
+print range.__doc__
+print range.__module__
+print range.__str__()
+
+
+# formatting strings
+k = 'uid'
+v = 'sa'
+print "%s:%s" % (k, v)
+
+uid = 'sa'
+pwd = 'secret'
+print pwd + " is not a good password for " + uid
+print "%s is not a good password for %s" % (pwd, uid)
+userCount = 6
+print "users connected: %d" % (userCount)
+# print "Users connected: " + userCount
+
+# formatting numbers
+# treats the value as a decimal and prints to 6 decimal places
+print "Today's stock price: %f" % 50.4625
+# truncates the value to 2 decimal places
+print "Today's stock price: %.2f" % 50.4625
+# combine modifiers
+# adding the + modifier displays a plus or minus sign before the value
+# note that the .2 modifier is still in place and is padding the value to 2 decimal places
+print "Change since yesterday: %+.2f" % 1.5
+
+
+# Mapping Lists
+li = [1,9,8,4]
+print li
+li = [elem*2 for elem in li]
+print li
+
+params = {"server":"mpilgrim", "database":"master",  "uid":"sa", "pwd":"secret" }
+print params.keys()
+print params.values()
+print params.items()
+
+# joining lists and splitting strings
+print [k for k, v in params.items()]
+print [v for k, v in params.items()]
+print ["%s=%s" % (k, v) for k, v in params.items()]
+print ";".join(["%s=%s" % (k, v) for k, v in params.items()])
+
+# splitting a string
+li = ['server=mpilgrim', 'uid=sa', 'database=master', 'pwd=secret']
+s = ";".join(li)
+print li
+print s
+print s.split(";")
+print s.split(";", 1)
