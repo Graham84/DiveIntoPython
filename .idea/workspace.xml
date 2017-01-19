@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" afterPath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,18 +48,38 @@
       <file leaf-file-name="The New Way from n to m.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Checking for Tens and Ones.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Checking for Tens and Ones.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Validating Roman Numerals with {n,m}.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Verbose Regular Expressions Regular Expressions with Inline Comments.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,6 +132,8 @@
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The Old Way Every Character Optional.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" />
+        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py" />
+        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py" />
       </list>
     </option>
   </component>
@@ -190,58 +214,7 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.The New Way from n to m">
-    <configuration default="false" name="Matchinig Whole Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matchinig Whole Words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Checking for Thousands" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Thousands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Checking for Hundreds" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Hundreds.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Verbose Regular Expressions Regular Expressions with Inline Comments">
     <configuration default="false" name="The Old Way Every Character Optional" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +245,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Checking for Tens and Ones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Validating Roman Numerals with {n,m}" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Verbose Regular Expressions Regular Expressions with Inline Comments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -429,19 +453,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Matchinig Whole Words" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Checking for Thousands" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Checking for Hundreds" />
-      <item index="4" class="java.lang.String" itemvalue="Python.The Old Way Every Character Optional" />
-      <item index="5" class="java.lang.String" itemvalue="Python.The New Way from n to m" />
+      <item index="1" class="java.lang.String" itemvalue="Python.The Old Way Every Character Optional" />
+      <item index="2" class="java.lang.String" itemvalue="Python.The New Way from n to m" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Checking for Tens and Ones" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Validating Roman Numerals with {n,m}" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Verbose Regular Expressions Regular Expressions with Inline Comments" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.The New Way from n to m" />
-        <item index="1" class="java.lang.String" itemvalue="Python.The Old Way Every Character Optional" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Checking for Hundreds" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Checking for Thousands" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Matchinig Whole Words" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Verbose Regular Expressions Regular Expressions with Inline Comments" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Validating Roman Numerals with {n,m}" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Checking for Tens and Ones" />
+        <item index="3" class="java.lang.String" itemvalue="Python.The New Way from n to m" />
+        <item index="4" class="java.lang.String" itemvalue="Python.The Old Way Every Character Optional" />
       </list>
     </recent_temporary>
   </component>
@@ -802,16 +826,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
