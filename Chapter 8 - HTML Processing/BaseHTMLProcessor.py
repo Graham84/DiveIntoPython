@@ -86,6 +86,7 @@ class BaseHTMLProcessor(SGMLParser):
     def output(self):
         """Return processed HTML as a single string"""
         return "".join(self.pieces)
+        # return string.join(self.pieces, "")
 
 
 if __name__ == "__main__":
