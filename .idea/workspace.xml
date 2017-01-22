@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntoducingLocals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingBaseHTMLProcessor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllister.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/UsingUrllister.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/BaseHTMLProcessor.py" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/BaseHTMLProcessor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" afterPath="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,16 +84,38 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1485105262692" expanded="true" signature="13:42" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locals are read only globals are not.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="locals are read only globals are not.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py">
+      <file leaf-file-name="Dictionary-based String Formatting.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuotingAttributeValues.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -173,14 +191,16 @@
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllister.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntoducingLocals.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" />
+        <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py" />
+        <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
-    <option name="y" value="25" />
-    <option name="width" value="1022" />
-    <option name="height" value="766" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -225,20 +245,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 8 - HTML Processing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -253,41 +259,7 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.IntoducingLocals">
-    <configuration default="false" name="Introducing urllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 8 - HTML Processing\IntroducingUrllib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="3 - Using urllister" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 8 - HTML Processing\UsingUrllister.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.QuotingAttributeValues">
     <configuration default="false" name="IntroducingUrllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,23 +277,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="UsingUrllister" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/UsingUrllister.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="IntoducingLocals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +290,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntoducingLocals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="locals are read only globals are not" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dictionary-based String Formatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuotingAttributeValues" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -492,19 +498,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Introducing urllib" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3 - Using urllister" />
-      <item index="3" class="java.lang.String" itemvalue="Python.IntroducingUrllib" />
-      <item index="4" class="java.lang.String" itemvalue="Python.UsingUrllister" />
-      <item index="5" class="java.lang.String" itemvalue="Python.IntoducingLocals" />
+      <item index="1" class="java.lang.String" itemvalue="Python.IntroducingUrllib" />
+      <item index="2" class="java.lang.String" itemvalue="Python.IntoducingLocals" />
+      <item index="3" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
+      <item index="5" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IntoducingLocals" />
-        <item index="1" class="java.lang.String" itemvalue="Python.IntroducingUrllib" />
-        <item index="2" class="java.lang.String" itemvalue="Python.UsingUrllister" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3 - Using urllister" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Introducing urllib" />
+        <item index="0" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
+        <item index="2" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
+        <item index="3" class="java.lang.String" itemvalue="Python.IntoducingLocals" />
+        <item index="4" class="java.lang.String" itemvalue="Python.IntroducingUrllib" />
       </list>
     </recent_temporary>
   </component>
@@ -522,15 +528,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="25" width="1022" height="766" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18235295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.50333333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2952816" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2874074" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -560,23 +566,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/GarbageColection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/fileinfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#864#873#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/GettingAndSettingItems.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -928,14 +917,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1485105262692" expanded="true" signature="13:42" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding />
         </state>
       </provider>
