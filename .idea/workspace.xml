@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiveIntoPython.iws" />
@@ -24,38 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntroducingBaseHTMLProcessor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingBaseHTMLProcessor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dialect.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/dialect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#384#393#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntroducingUrllib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IntroducingUrllister.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllister.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,14 +77,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kgp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kgp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="236">
+              <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
               <folding>
                 <element signature="e#980#1007#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kant.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binary.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PackagesAreModulesToo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 2 - Your First Python Program/ifStatements.py" />
         <option value="$PROJECT_DIR$/Chapeter 3 - Native Datatypes/NativeDatatypes.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using type, str, dir and other built in Functions.py" />
@@ -194,6 +192,9 @@
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
+        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
       </list>
     </option>
   </component>
@@ -274,41 +275,7 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.QuotingAttributeValues">
-    <configuration default="false" name="IntroducingUrllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="IntoducingLocals" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntoducingLocals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.PackagesAreModulesToo">
     <configuration default="false" name="locals are read only globals are not" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,6 +323,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="kgp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PackagesAreModulesToo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -513,19 +514,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.IntroducingUrllib" />
-      <item index="2" class="java.lang.String" itemvalue="Python.IntoducingLocals" />
-      <item index="3" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
-      <item index="5" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
+      <item index="1" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
+      <item index="3" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
+      <item index="4" class="java.lang.String" itemvalue="Python.kgp" />
+      <item index="5" class="java.lang.String" itemvalue="Python.PackagesAreModulesToo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
-        <item index="2" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
-        <item index="3" class="java.lang.String" itemvalue="Python.IntoducingLocals" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IntroducingUrllib" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PackagesAreModulesToo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kgp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
+        <item index="4" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
       </list>
     </recent_temporary>
   </component>
@@ -581,21 +582,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 2 - Your First Python Program/ifStatements.py" />
-    <entry file="file://$PROJECT_DIR$/Chapter 2 - Your First Python Program/odbchelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using type, str, dir and other built in Functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="275" column="0" selection-start-line="275" selection-start-column="0" selection-end-line="275" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper output.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -958,11 +944,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="236">
+          <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
           <folding>
             <element signature="e#980#1007#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
