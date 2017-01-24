@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,16 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntroducingUrllister.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllister.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IntoducingLocals.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/IntoducingLocals.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PackagesAreModulesToo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PackagesAreModulesToo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thanks.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="435" column="10" selection-start-line="435" selection-start-column="10" selection-end-line="435" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -144,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapeter 3 - Native Datatypes/NativeDatatypes.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using type, str, dir and other built in Functions.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Understanding the Pecuiar Nature of and &amp; or.py" />
@@ -195,6 +191,7 @@
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
+        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml" />
       </list>
     </option>
   </component>
@@ -582,13 +579,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper output.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Understanding the Pecuiar Nature of and &amp; or.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -972,6 +962,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="435" column="10" selection-start-line="435" selection-start-column="10" selection-end-line="435" selection-end-column="10" />
           <folding />
         </state>
       </provider>
