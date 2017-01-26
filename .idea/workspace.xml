@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/diveintopython.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,48 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="locals are read only globals are not.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dictionary-based String Formatting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuotingAttributeValues.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kgp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
-              <folding>
-                <element signature="e#980#1007#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="kant.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,8 +46,18 @@
       <file leaf-file-name="PackagesAreModulesToo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loading an XML Document.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -104,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="diveintopython.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="diveintopython.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/diveintopython.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
               <folding>
                 <element signature="e#1029#1036#0" expanded="true" />
                 <element signature="e#1045#1055#0" expanded="true" />
@@ -133,16 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toolbox.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -158,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using type, str, dir and other built in Functions.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Understanding the Pecuiar Nature of and &amp; or.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using Lambda Functions.py" />
         <option value="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper output.py" />
@@ -209,6 +167,7 @@
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/diveintopython.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py" />
       </list>
     </option>
   </component>
@@ -289,24 +248,7 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PackagesAreModulesToo">
-    <configuration default="false" name="locals are read only globals are not" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8 - HTML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Loading an XML Document">
     <configuration default="false" name="Dictionary-based String Formatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,6 +313,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Loading an XML Document" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -528,19 +487,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
-      <item index="3" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
-      <item index="4" class="java.lang.String" itemvalue="Python.kgp" />
-      <item index="5" class="java.lang.String" itemvalue="Python.PackagesAreModulesToo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
+      <item index="2" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kgp" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PackagesAreModulesToo" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PackagesAreModulesToo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.kgp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
-        <item index="4" class="java.lang.String" itemvalue="Python.locals are read only globals are not" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PackagesAreModulesToo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.kgp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.QuotingAttributeValues" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Dictionary-based String Formatting" />
       </list>
     </recent_temporary>
   </component>
@@ -559,14 +518,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18235295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.50333333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2874074" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2874074" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -596,13 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 3 - Native Datatypes/NativeDatatypes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -861,7 +813,7 @@
         <state relative-caret-position="340">
           <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="88" selection-end-column="45" />
           <folding>
-            <element signature="e#632#662#0" expanded="true" />
+            <element signature="e#632#662#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -871,7 +823,7 @@
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#384#393#0" expanded="true" />
+            <element signature="e#384#393#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -918,26 +870,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+        <state relative-caret-position="393">
+          <caret line="435" column="10" selection-start-line="435" selection-start-column="10" selection-end-line="435" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -952,34 +888,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="435" column="10" selection-start-line="435" selection-start-column="10" selection-end-line="435" selection-end-column="10" />
+        <state relative-caret-position="300">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -987,7 +899,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/diveintopython.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
           <folding>
             <element signature="e#1029#1036#0" expanded="true" />
             <element signature="e#1045#1055#0" expanded="true" />
@@ -1008,6 +920,54 @@
             <element signature="e#1300#1314#0" expanded="true" />
             <element signature="e#1315#1333#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
