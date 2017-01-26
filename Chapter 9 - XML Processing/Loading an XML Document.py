@@ -11,3 +11,23 @@ print xmldoc.childNodes[1]
 grammarNode = xmldoc.childNodes[1]
 print grammarNode
 print grammarNode.toxml()
+
+
+# child nodes can be text
+print grammarNode.childNodes
+print grammarNode.childNodes[1]
+print grammarNode.childNodes[1].toxml()
+print grammarNode.childNodes[3]
+print grammarNode.childNodes[3].toxml()
+print grammarNode.lastChild.toxml()
+
+# drilling Down all the Way to Text
+print grammarNode
+refNode = grammarNode.childNodes[1]
+print refNode
+print refNode.childNodes
+pNode = refNode.childNodes[2]
+print pNode
+print pNode.toxml()
+print pNode.firstChild
+# print pNode.firstChild.data
