@@ -1,5 +1,5 @@
 from xml.dom import minidom
-xmldoc = minidom.parse('C:\\Users\\Graham\\Desktop\\Graham\\CIT\\git\\DiveIntoPython\\Chapter 9 - XML Processing\\binary.xml')
+xmldoc = minidom.parse('C:\\Users\\Graham\\Desktop\\Graham\\CIT\\git\\DiveIntoPython\\Chapter 09 - XML Processing\\binary.xml')
 print xmldoc
 print xmldoc.toxml()
 
