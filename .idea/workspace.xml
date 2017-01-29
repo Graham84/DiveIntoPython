@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FindingDirectChildElements.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FunctionsCalledbythe ParseDispatcher.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/GenericXMLNodeDispatcher.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/kant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/loadGrammar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingGetopt.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntroducingSysargv.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntroducingSysargv.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="417">
               <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntroducingGetopt.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingGetopt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The Old Way Every Character Optional.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py" />
@@ -186,6 +188,7 @@
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
         <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FunctionsCalledbythe ParseDispatcher.py" />
         <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingGetopt.py" />
       </list>
     </option>
   </component>
@@ -235,34 +238,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 9 - XML Processing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DiveIntoPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 10 - Scripts and Streams" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -567,9 +542,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23970588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23970588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.50333333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -604,13 +579,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Hundreds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/The Old Way Every Character Optional.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1005,6 +973,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingGetopt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
