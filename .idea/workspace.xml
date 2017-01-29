@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/AccessingXMLElementAttributes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducinStringIO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaFile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaURL.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,71 +26,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DefaultEncoding.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/DefaultEncoding.py">
+      <file leaf-file-name="ParsingXMLfromaFile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaFile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="68">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binary.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntroducinggetElementsByTagName.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/IntroducinggetElementsByTagName.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccessingXMLElementAttributes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/AccessingXMLElementAttributes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpecifyingEncoding.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/SpecifyingEncoding.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="russiansample.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/russiansample.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RussianSampleParsing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/RussianSampleParsing.py">
+      <file leaf-file-name="ParsingXMLfromaURL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaURL.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParsingXMLfromaString.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntroducinStringIO.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducinStringIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,11 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Overriding setitem.py" />
-        <option value="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Setting MP3Fileinfos Name.py" />
-        <option value="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Class Attributes.py" />
-        <option value="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Modifying Class Attributes.py" />
-        <option value="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Opening a Nonexistent File.py" />
         <option value="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Supporting Platform Specific Functionality.py" />
         <option value="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Working with File Objects.py" />
         <option value="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Writing to Files.py" />
@@ -158,6 +129,11 @@
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/Introducing getElementsByTagName.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/IntroducinggetElementsByTagName.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/AccessingXMLElementAttributes.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaFile.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaURL.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaString.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/introducinStringIO.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducinStringIO.py" />
       </list>
     </option>
   </component>
@@ -224,9 +200,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiveIntoPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiveIntoPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter 10 - Scripts and Streams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="DiveIntoPython">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -234,79 +237,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AccessingXMLElementAttributes">
-    <configuration default="false" name="IntroducingUnicode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/IntroducingUnicode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DefaultEncoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/DefaultEncoding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RussianSampleParsing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/RussianSampleParsing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="IntroducinggetElementsByTagName" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 - XML Processing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/IntroducinggetElementsByTagName.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.IntroducinStringIO">
     <configuration default="false" name="AccessingXMLElementAttributes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,6 +258,74 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 - XML Processing/AccessingXMLElementAttributes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParsingXMLfromaFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParsingXMLfromaURL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaURL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParsingXMLfromaString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IntroducinStringIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducinStringIO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -477,19 +483,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.IntroducingUnicode" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DefaultEncoding" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RussianSampleParsing" />
-      <item index="4" class="java.lang.String" itemvalue="Python.IntroducinggetElementsByTagName" />
-      <item index="5" class="java.lang.String" itemvalue="Python.AccessingXMLElementAttributes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AccessingXMLElementAttributes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ParsingXMLfromaFile" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ParsingXMLfromaURL" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ParsingXMLfromaString" />
+      <item index="5" class="java.lang.String" itemvalue="Python.IntroducinStringIO" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AccessingXMLElementAttributes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.IntroducinggetElementsByTagName" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RussianSampleParsing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DefaultEncoding" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IntroducingUnicode" />
+        <item index="0" class="java.lang.String" itemvalue="Python.IntroducinStringIO" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ParsingXMLfromaString" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ParsingXMLfromaURL" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ParsingXMLfromaFile" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AccessingXMLElementAttributes" />
       </list>
     </recent_temporary>
   </component>
@@ -510,12 +516,12 @@
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18235295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23970588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.50333333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2874074" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29037037" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -545,28 +551,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Setting MP3Fileinfos Name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Class Attributes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Modifying Class Attributes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Opening a Nonexistent File.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -783,6 +767,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
+          <folding>
+            <element signature="e#980#1007#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -918,6 +905,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaURL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ParsingXMLfromaString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducinStringIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
