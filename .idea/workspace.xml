@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingOpenAnything.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingStdoutandStderr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/PrintingtoStderr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingErrorInformation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingOutput.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducinStringIO.py" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingStringIO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FindingDirectChildElements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FunctionsCalledbythe ParseDispatcher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/GenericXMLNodeDispatcher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/kant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/loadGrammar.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" afterPath="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,71 +30,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntroducingOpenAnything.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingOpenAnything.py">
+      <file leaf-file-name="loadGrammar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/loadGrammar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kant.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/kant.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindingDirectChildElements.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FindingDirectChildElements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassNamesofParsedXMLObjects.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericXMLNodeDispatcher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/GenericXMLNodeDispatcher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toolbox.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="366">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntroducingStdoutandStderr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingStdoutandStderr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedirectingOutput.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingOutput.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedirectingErrorInformation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingErrorInformation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintingtoStderr.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/PrintingtoStderr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/error.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="out.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/out.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,8 +93,28 @@
       <file leaf-file-name="kgp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <state relative-caret-position="383">
+              <caret line="178" column="12" selection-start-line="135" selection-start-column="3" selection-end-line="178" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionsCalledbythe ParseDispatcher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FunctionsCalledbythe ParseDispatcher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntroducingSysargv.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,12 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Listing Dictionaries.py" />
-        <option value="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Listing Directories with Glob.py" />
-        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matching at the End of a String.py" />
-        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matchinig Whole Words.py" />
-        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Thousands.py" />
-        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Hundreds.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The Old Way Every Character Optional.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" />
@@ -148,7 +154,6 @@
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py" />
-        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" />
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml" />
@@ -174,6 +179,13 @@
         <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingErrornformation.py" />
         <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingErrorInformation.py" />
         <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/PrintingtoStderr.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/loadGrammar.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FindingDirectChildElements.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/GenericXMLNodeDispatcher.py" />
+        <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FunctionsCalledbythe ParseDispatcher.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py" />
       </list>
     </option>
   </component>
@@ -281,27 +293,11 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 10 - Scripts and Streams" />
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PrintingtoStderr">
-    <configuration default="false" name="IntroducinStringIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 10 - Scripts and Streams\IntroducingStringIO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ClassNamesofParsedXMLObjects">
     <configuration default="false" name="IntroducingStdoutandStderr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,6 +362,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/PrintingtoStderr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClassNamesofParsedXMLObjects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -523,19 +536,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.IntroducinStringIO" />
-      <item index="2" class="java.lang.String" itemvalue="Python.IntroducingStdoutandStderr" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RedirectingOutput" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
-      <item index="5" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
+      <item index="1" class="java.lang.String" itemvalue="Python.IntroducingStdoutandStderr" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RedirectingOutput" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RedirectingOutput" />
-        <item index="3" class="java.lang.String" itemvalue="Python.IntroducingStdoutandStderr" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IntroducinStringIO" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RedirectingOutput" />
+        <item index="4" class="java.lang.String" itemvalue="Python.IntroducingStdoutandStderr" />
       </list>
     </recent_temporary>
   </component>
@@ -561,7 +574,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.50333333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29037037" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29037037" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -591,55 +604,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/fileinfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/fileinfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matching at the End of a String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matchinig Whole Words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Thousands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Listing Directories with Glob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Listing Dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Hundreds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -754,13 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/diveintopython.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -807,14 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -924,26 +873,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingOpenAnything.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingStdoutandStderr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -956,18 +889,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingOutput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/error.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FindingDirectChildElements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingStdoutandStderr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -984,6 +941,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/loadGrammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/kant.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/GenericXMLNodeDispatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="178" column="12" selection-start-line="135" selection-start-column="3" selection-end-line="178" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/FunctionsCalledbythe ParseDispatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 - Scripts and Streams/IntroducingSysargv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
