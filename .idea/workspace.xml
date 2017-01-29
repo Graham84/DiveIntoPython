@@ -2,70 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 2 - Your First Python Program/ifStatements.py" afterPath="$PROJECT_DIR$/Chapter 02 - Your First Python Program/ifStatements.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 2 - Your First Python Program/odbchelper.py" afterPath="$PROJECT_DIR$/Chapter 02 - Your First Python Program/odbchelper.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 3 - Native Datatypes/NativeDatatypes.py" afterPath="$PROJECT_DIR$/Chapter 03 - Native Datatypes/NativeDatatypes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Understanding the Pecuiar Nature of and &amp; or.py" afterPath="$PROJECT_DIR$/Chapter 04 - The Power of Introspection/Understanding the Pecuiar Nature of and &amp; or.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using Lambda Functions.py" afterPath="$PROJECT_DIR$/Chapter 04 - The Power of Introspection/Using Lambda Functions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/Using type, str, dir and other built in Functions.py" afterPath="$PROJECT_DIR$/Chapter 04 - The Power of Introspection/Using type, str, dir and other built in Functions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper output.py" afterPath="$PROJECT_DIR$/Chapter 04 - The Power of Introspection/apihelper output.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 4 - The Power of Introspection/apihelper.py" afterPath="$PROJECT_DIR$/Chapter 04 - The Power of Introspection/apihelper.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Class Attributes.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/Class Attributes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/GarbageColection.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/GarbageColection.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/GettingAndSettingItems.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/GettingAndSettingItems.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/InstantiatingClass.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/InstantiatingClass.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Modifying Class Attributes.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/Modifying Class Attributes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Overriding setitem.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/Overriding setitem.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/Setting MP3Fileinfos Name.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/Setting MP3Fileinfos Name.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/fileinfo.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/fileinfo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 5 - Objects and Object-Orientation/import module vs  from module import.py" afterPath="$PROJECT_DIR$/Chapter 05 - Objects and Object-Orientation/import module vs  from module import.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Iterating Through a Dictionary.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Iterating Through a Dictionary.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Iterating with For Loops.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Iterating with For Loops.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Listing Dictionaries.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Listing Dictionaries.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Listing Directories with Glob.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Listing Directories with Glob.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Opening a Nonexistent File.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Opening a Nonexistent File.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Supporting Platform Specific Functionality.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Supporting Platform Specific Functionality.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Working with Dictionaries.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Working with Dictionaries.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Working with File Objects.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Working with File Objects.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/Writing to Files.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/Writing to Files.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 6 - Exceptions and File Handling/fileinfo.py" afterPath="$PROJECT_DIR$/Chapter 06 - Exceptions and File Handling/fileinfo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Hundreds.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Checking for Hundreds.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Tens and Ones.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Checking for Tens and Ones.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Checking for Thousands.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Checking for Thousands.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Finding Numbers.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Finding Numbers.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matching at the End of a String.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Matching at the End of a String.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Matchinig Whole Words.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Matchinig Whole Words.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The New Way from n to m.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/The New Way from n to m.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/The Old Way Every Character Optional.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/The Old Way Every Character Optional.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Validating Roman Numerals with {n,m}.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py" afterPath="$PROJECT_DIR$/Chapter 07 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/BaseHTMLProcessor.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/BaseHTMLProcessor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/Dictionary-based String Formatting.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/Dictionary-based String Formatting.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntoducingLocals.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/IntoducingLocals.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingBaseHTMLProcessor.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/IntroducingBaseHTMLProcessor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllib.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/IntroducingUrllib.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/IntroducingUrllister.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/IntroducingUrllister.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/QuotingAttributeValues.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/QuotingAttributeValues.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/UsingUrllister.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/UsingUrllister.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/dialect.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/dialect.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 8 - HTML Processing/locals are read only globals are not.py" afterPath="$PROJECT_DIR$/Chapter 08 - HTML Processing/locals are read only globals are not.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/AccessingXMLElementAttributes.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/AccessingXMLElementAttributes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/DefaultEncoding.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/DefaultEncoding.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/IntroducingUnicode.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/IntroducingUnicode.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/IntroducinggetElementsByTagName.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/IntroducinggetElementsByTagName.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/Loading an XML Document.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/PackagesAreModulesToo.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/PackagesAreModulesToo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/RussianSampleParsing.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/RussianSampleParsing.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/SpecifyingEncoding.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/SpecifyingEncoding.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/binary.xml" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/binary.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/diveintopython.xml" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/diveintopython.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/kant.xml" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/kant.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/kgp.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/kgp.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/russiansample.xml" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/russiansample.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/thanks.xml" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/thanks.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 9 - XML Processing/toolbox.py" afterPath="$PROJECT_DIR$/Chapter 09 - XML Processing/toolbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,11 +24,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="openAnything.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="openAnything.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#681#711#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DownloadingaFeedtheQuickandDirtyWay.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Validating Roman Numerals with {n,m}.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py" />
         <option value="$PROJECT_DIR$/Chapter 7 - Regular Expressions/Finding Numbers.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/dialect.py" />
@@ -161,6 +111,7 @@
         <option value="$PROJECT_DIR$/Chapter 9 - XML Processing/Loading an XML Document.py" />
         <option value="$PROJECT_DIR$/Chapter 09 - XML Processing/Loading an XML Document.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
       </list>
     </option>
   </component>
@@ -258,24 +209,7 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Loading an XML Document">
-    <configuration default="false" name="RedirectingOutput" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/RedirectingOutput.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.DownloadingaFeedtheQuickandDirtyWay">
     <configuration default="false" name="RedirectingErrorInformation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,6 +274,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 09 - XML Processing/Loading an XML Document.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DownloadingaFeedtheQuickandDirtyWay" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -497,19 +448,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RedirectingOutput" />
-      <item index="2" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
+      <item index="5" class="java.lang.String" itemvalue="Python.DownloadingaFeedtheQuickandDirtyWay" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RedirectingOutput" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DownloadingaFeedtheQuickandDirtyWay" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PrintingtoStderr" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RedirectingErrorInformation" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +487,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29037037" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29037037" sideWeight="0.49666667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -565,13 +516,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 07 - Regular Expressions/The New Way from n to m.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 07 - Regular Expressions/Checking for Tens and Ones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -661,6 +605,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7395">
           <caret line="435" column="10" selection-start-line="435" selection-start-column="10" selection-end-line="435" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -668,6 +613,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="e#1029#1036#0" expanded="false" />
+            <element signature="e#1045#1055#0" expanded="false" />
+            <element signature="e#1056#1073#0" expanded="false" />
+            <element signature="e#1074#1094#0" expanded="false" />
+            <element signature="e#1095#1114#0" expanded="false" />
+            <element signature="e#1115#1133#0" expanded="false" />
+            <element signature="e#1134#1146#0" expanded="false" />
+            <element signature="e#1147#1164#0" expanded="false" />
+            <element signature="e#1165#1178#0" expanded="false" />
+            <element signature="e#1179#1201#0" expanded="false" />
+            <element signature="e#1202#1216#0" expanded="false" />
+            <element signature="e#1217#1232#0" expanded="false" />
+            <element signature="e#1233#1253#0" expanded="false" />
+            <element signature="e#1254#1270#0" expanded="false" />
+            <element signature="e#1271#1288#0" expanded="false" />
+            <element signature="e#1289#1299#0" expanded="false" />
+            <element signature="e#1300#1314#0" expanded="false" />
+            <element signature="e#1315#1333#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -717,6 +682,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -731,6 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -801,6 +768,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-918">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -892,6 +860,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -912,8 +881,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#681#711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
