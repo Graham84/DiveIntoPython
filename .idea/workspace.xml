@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLAstModified.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntroducingUrllib2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntroducingUrllib2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestingLAstModified.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLAstModified.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -80,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/dialect.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/Introducing urllib.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/Introducing urllister.py" />
         <option value="$PROJECT_DIR$/Chapter 8 - HTML Processing/3 - Using urllister.py" />
@@ -131,6 +140,7 @@
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLAstModified.py" />
       </list>
     </option>
   </component>
@@ -228,24 +238,7 @@
       <recent name="C:\Users\Graham\Desktop\Graham\CIT\git\DiveIntoPython\Chapter 6 - Exceptions and File Handling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.IntroducingUrllib2">
-    <configuration default="false" name="ClassNamesofParsedXMLObjects" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DiveIntoPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 - Scripts and Streams/ClassNamesofParsedXMLObjects.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.TestingLAstModified">
     <configuration default="false" name="Loading an XML Document" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,6 +303,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DiveIntoPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestingLAstModified" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DiveIntoPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLAstModified.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -467,19 +477,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.odbchelper" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DownloadingaFeedtheQuickandDirtyWay" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DebuggingHTTP" />
-      <item index="5" class="java.lang.String" itemvalue="Python.IntroducingUrllib2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DownloadingaFeedtheQuickandDirtyWay" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DebuggingHTTP" />
+      <item index="4" class="java.lang.String" itemvalue="Python.IntroducingUrllib2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.TestingLAstModified" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IntroducingUrllib2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DebuggingHTTP" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DownloadingaFeedtheQuickandDirtyWay" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ClassNamesofParsedXMLObjects" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TestingLAstModified" />
+        <item index="1" class="java.lang.String" itemvalue="Python.IntroducingUrllib2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DebuggingHTTP" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DownloadingaFeedtheQuickandDirtyWay" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Loading an XML Document" />
       </list>
     </recent_temporary>
   </component>
@@ -535,13 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 07 - Regular Expressions/Verbose Regular Expressions Regular Expressions with Inline Comments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 07 - Regular Expressions/Finding Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11">
@@ -913,7 +916,15 @@
     <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLAstModified.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding />
         </state>
       </provider>
