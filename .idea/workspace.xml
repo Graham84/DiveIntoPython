@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0578865e-f76e-4289-b6d2-e5f4d603eaed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" afterPath="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
     </list>
     <ignored path="DiveIntoPython.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="DownloadingaFeedtheQuickandDirtyWay.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="306">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -187,7 +186,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="317" />
-    <option name="y" value="119" />
     <option name="width" value="1022" />
     <option name="height" value="766" />
   </component>
@@ -216,20 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="DiveIntoPython">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -261,6 +245,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Chapter 11 - HTTP Web Services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="DiveIntoPython">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -548,7 +546,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="317" y="119" width="1022" height="766" extended-state="0" />
+    <frame x="317" y="0" width="1022" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -967,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="306">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>
