@@ -35,21 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DownloadingaFeedtheQuickandDirtyWay.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DownloadingaFeedtheQuickandDirtyWay.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DebuggingHTTP.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DebuggingHTTP.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -179,13 +179,14 @@
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/UsingaCustomURLHandler.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/SupportingEtagIfNoneMatch.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/openAnything.py" />
-        <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
+    <option name="x" value="157" />
+    <option name="y" value="103" />
     <option name="width" value="1022" />
     <option name="height" value="766" />
   </component>
@@ -546,7 +547,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="0" width="1022" height="766" extended-state="0" />
+    <frame x="157" y="103" width="1022" height="766" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -955,7 +956,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -963,7 +964,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
