@@ -55,21 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntroducingUrllib2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntroducingUrllib2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestingLastModiffied.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestingLastModiffied.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLastModiffied.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="613">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -179,8 +179,8 @@
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DownloadingaFeedtheQuickandDirtyWay.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DebuggingHTTP.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/DefiningaURLHandler.py" />
-        <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLastModiffied.py" />
         <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLastModiffied.py" />
       </list>
     </option>
   </component>
@@ -956,18 +956,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLastModiffied.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/IntroducingUrllib2.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 - HTTP Web Services/TestingLastModiffied.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
-          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
