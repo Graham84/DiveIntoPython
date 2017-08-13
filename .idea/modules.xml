@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DiveIntoPython.iml" filepath="$PROJECT_DIR$/.idea/DiveIntoPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonBootcamp/.idea/PythonBootcamp.iml" filepath="$PROJECT_DIR$/../PythonBootcamp/.idea/PythonBootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask-introduction/.idea/flask-introduction.iml" filepath="$PROJECT_DIR$/../flask-introduction/.idea/flask-introduction.iml" />
     </modules>
   </component>
 </project>
